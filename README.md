@@ -81,4 +81,4 @@ The objective of this project is to build a movie recommendation application usi
 
 **Ujjwal Singh**
 
-B.Com Student | Aspiring Data Analyst | Learning Data Science & Machine Learning
+Aspiring Data Analyst | Learning Data Science & Machine Learning
